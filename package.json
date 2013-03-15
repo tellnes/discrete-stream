@@ -10,7 +10,10 @@
   },
   "devDependencies": {},
   "scripts": {},
-  "repository": null,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/discrete-stream.git"
+  },
   "keywords": [],
   "author": {
     "name": "Christian Tellnes",
