@@ -1,0 +1,24 @@
+{
+  "name": "discrete-stream",
+  "version": "0.0.0",
+  "description": "discrete-stream",
+  "main": "index.js",
+  "dependencies": {
+    "readable-stream": "~1.0.2",
+    "stream-parser": "0.0.5",
+    "debug": "~0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": null,
+  "keywords": [],
+  "author": {
+    "name": "Christian Tellnes",
+    "email": "christian@tellnes.no",
+    "url": "http://christian.tellnes.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.9.8"
+  }
+}
